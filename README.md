@@ -13,13 +13,13 @@ In Visual Studio Code or a similar application open your integrated terminal of 
 Type in 'node server.js' to run the application. This will be running on your local host port and you can view it in your browser using localhost:3001
 <br>
 <br>
-Deployed application: https://taylorpaddock.github.io/note-taker/
+Deployed application: https://note-take2021.herokuapp.com/
 <br>
 <br>
 
-![homescreen screenshot](./public/assets/images/notetake-homescreen.jpg)
+![homescreen screenshot](./public/assets/images/notetaker-homescreen.jpg)
 
-![notes page screenshot](./public/assets/images/notetake-notesscreen.jpg))
+![notes page screenshot](./public/assets/images/notetaker-notesscreen.jpg)
 
 
 
